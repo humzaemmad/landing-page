@@ -63,7 +63,7 @@ header{
     align-items: center;
     order: 3;
 }
-/* #hero > .button {
+#hero > .button {
     background-color: #3882F6;
     border: none;
     padding: 10px;
@@ -77,4 +77,4 @@ header{
     order: 2;
     font-weight: 700;
     margin-right: 280px;
-} */
+}
