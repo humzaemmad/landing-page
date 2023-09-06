@@ -11,7 +11,7 @@ header{
     font-size: 18px;
     /* background-color: green; */
     display: flex;
-    margin-left: 850px;
+    margin-left: 975px;
     width: 300px;
     justify-content: center;
     justify-content: space-between;
@@ -22,27 +22,59 @@ header{
     padding: 55px 0px 0px 0px;
 }
 #hero {
-    background-color: aqua;
-    height: 600px;
+    /* background-color: aqua; */
+    height: 450px;
     display: flex;
     flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 150px 0px 150px;
 }
 .hero-main {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 1000;
     display: flex;
-    padding-top: 100px;
-    margin-left: 50px;
+    /*background-color: gray;*/
+    width: 450px;
+    flex-flow: row wrap;
+    order: 0;
 }
-/* #hero > .hero-sub {
+#hero > .hero-sub {
+    font-size: 18px;
+    color: #E5E7Eb;
+    /*background-color: gray;*/
+    display: flex;
+    flex-flow: row wrap;
+    height: 80px;
+    width: 450px;
+    justify-content: center;
+    order: 1;
+}
+/* #hero > .image-text {
     font-size: 18px;
     color: #E5E7Eb;
     background-color: gray;
     display: flex;
-    flex-flow: column wrap;
-    height: 150px;
-    width: 450px;
-    margin-left: 50px;
+    flex-flow: row wrap;
+    height: 300px;
+    width: 600px;
     justify-content: center;
+    align-items: center;
+    order: 3;
+}
+#hero > .button {
+    background-color: #3882F6;
+    border: none;
+    padding: 10px;
+    justify-content: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 18px;
+    color: #E5E7Eb;
+    border-radius: 12px;
+    width: 150px;
+    order: 2;
+    font-weight: 700;
+    margin-right: 280px;
 } */
