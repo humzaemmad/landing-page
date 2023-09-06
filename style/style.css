@@ -6,3 +6,17 @@ header{
     display: flex;
     /*background-color: blueviolet;*/
 }
+.h-box {
+    font-size: 18px;
+    /*background-color: green;*/
+    display: flex;
+    margin-left: 850px;
+    width: 300px;
+    justify-content: center;
+    justify-content: space-between;
+    color: #E5E7Eb;
+    
+}
+.h-box > .h-box1, .h-box2, .h-box3 {
+    padding: 55px 0px 0px 0px;
+}
