@@ -51,7 +51,7 @@ header{
     justify-content: center;
     order: 1;
 }
-/* #hero > .image-text {
+#hero > .image-text {
     font-size: 18px;
     color: #E5E7Eb;
     background-color: gray;
@@ -63,7 +63,7 @@ header{
     align-items: center;
     order: 3;
 }
-#hero > .button {
+/* #hero > .button {
     background-color: #3882F6;
     border: none;
     padding: 10px;
