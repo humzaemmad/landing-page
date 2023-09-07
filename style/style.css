@@ -166,3 +166,19 @@ header{
     align-items: center;
     border-radius: 25px; 
 }
+.blue-box > .button {
+    background-color: #3882F6;
+    padding: 10px;
+    justify-content: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 18px;
+    color: #E5E7Eb;
+    border-radius: 12px;
+    width: 150px;
+    order: 2;
+    font-weight: 700;
+    margin-right: 280px;
+    border-style: solid;
+    border-color: #E5E7Eb;
+}
