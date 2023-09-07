@@ -78,3 +78,9 @@ header{
     font-weight: 700;
     margin-right: 280px;
 }
+#info {
+    display: flex;
+    background-color: #E5E7Eb;
+    height: 450px;
+    flex-direction: column;
+}
