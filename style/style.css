@@ -125,3 +125,9 @@ header{
     height: 100px;
     font-weight: 700;
 }
+#quote {
+    display: flex;
+    background-color: gray;
+    height: 450px;
+    flex-direction: column;
+}
