@@ -142,3 +142,9 @@ header{
     font-weight: 200;
     color: #1f2937;
 }
+#quote > .quoter {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 500px;
+}
