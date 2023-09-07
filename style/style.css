@@ -130,12 +130,15 @@ header{
     background-color: grey;
     height: 450px;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 #quote > .quote-text {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex: 1;
     font-size: 36px;
     font-weight: 200;
+    color: #1f2937;
 }
