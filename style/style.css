@@ -195,3 +195,12 @@ header{
     margin-top: 25px;
     margin-left: 600px;
 }
+#footer {
+    background-color: #1F2937;
+    height: 50px;
+    color: #E5E7Eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
