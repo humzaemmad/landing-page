@@ -114,3 +114,14 @@ header{
     padding: 25px 450px 0px 450px;
     height: 200px;
 }
+.imgs > .img-1, .img-2, .img-3, .img-4 {
+    background-color: #E5E7Eb;
+    border-style: solid;
+    border-color: #3882F6;
+    justify-content: center;
+    display: flex;
+    border-radius: 12px;
+    width: 100px;
+    height: 100px;
+    font-weight: 700;
+}
