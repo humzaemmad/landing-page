@@ -148,3 +148,11 @@ header{
     align-items: flex-start;
     margin-left: 500px;
 }
+#cta {
+    display: flex;
+    background-color: #E5E7Eb;
+    height: 200px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
