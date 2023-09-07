@@ -127,7 +127,15 @@ header{
 }
 #quote {
     display: flex;
-    background-color: gray;
+    background-color: grey;
     height: 450px;
     flex-direction: column;
+}
+#quote > .quote-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    font-size: 36px;
+    font-weight: 200;
 }
